@@ -1,0 +1,701 @@
+PROMPT MESTRE: SITE DE CAPTAÇÃO DE LEADS PARA SERVIÇO LOCAL (SEO + GEO)
+
+======================================================================
+0. COMO RECEBER O NICHO (leia primeiro)
+======================================================================
+O usuário informa apenas o nome do nicho na última linha do prompt, por exemplo "NICHO DESTE SITE: lavanderia". Não faça perguntas. Siga estes passos:
+
+PASSO 1. Crie o bloco NICHO, com os mesmos campos do MODELO ao final desta seção:
+- slug do site: nome do serviço no singular + "ribeiraopreto", tudo em minúsculas, sem acento, sem espaço e sem hífen (ex.: lavanderiaribeiraopreto).
+- nome do portal: "[Serviço] em Ribeirão Preto". termo do nicho: o nome que as pessoas digitam no Google (ex.: lavanderia, instalação de ar-condicionado).
+- cor de destaque: uma cor que combine com o serviço, escura o bastante para texto branco ter contraste AA (mínimo 4.5:1). Cores já usadas em outros sites, para você evitar repetir: #c2410c, #0369a1, #a16207, #15803d, #b45309, #0e7490, #b91c1c.
+- cor escura (%ESC%): a cor de destaque misturada 28% com preto. suave (%TINT%): a cor de destaque misturada 92% com branco. suave 2 (%TINT2%): a cor de destaque misturada 80% com branco. Informe os quatro valores em hexadecimal.
+- title (até 60 caracteres, com "Ribeirão Preto"), H1, subtítulo do hero (1 a 2 frases), meta description (120 a 155 caracteres).
+- "o que informar no atendimento": os dados que o prestador precisa para passar o valor (ex.: bairro, tipo do serviço, quantidade).
+- 3 SERVIÇOS reais do nicho, cada um com slug, nome, descrição de 1 a 2 frases e a mensagem de WhatsApp (verbo no infinitivo, completando "Olá! Vim pelo site e gostaria de ... em Ribeirão Preto.").
+- 4 DIFERENCIAIS, cada um com título curto e frase.
+- 5 PERGUNTAS FREQUENTES com respostas objetivas e corretas (a última sempre sobre como pedir o orçamento).
+- 3 SITUAÇÕES TÍPICAS do nicho, para variar as páginas de bairro.
+Regras do conteúdo: siga a seção 6 (nada de promessa de preço, prazo, 24 horas, garantia ou avaliações). Em nichos com normas legais ou risco (saúde, elétrica, gás, obras, alimentos, segurança), escreva de forma cautelosa e mande confirmar com o prestador ou com o órgão competente. Não invente dados nem leis.
+
+PASSO 2. Mostre ao usuário o bloco NICHO que você criou, em poucas linhas, e siga direto para gerar o site completo (não espere resposta).
+
+PASSO 3. Gere o site conforme todas as seções abaixo e entregue o projeto.
+
+MODELO (exemplo completo de um bloco NICHO bem preenchido; copie a estrutura, não o conteúdo):
+
+======================================================================
+NICHO: EXTINTOR DE INCÊNDIO   (exemplo)
+======================================================================
+slug do site: extintorribeiraopreto
+nome do portal: Extintor em Ribeirão Preto
+termo do nicho: extintor de incêndio
+cor de destaque (%COR%): #b91c1c | escura (%ESC%): #851414 | suave (%TINT%): #f9eded | suave 2 (%TINT2%): #f1d2d2
+title da inicial: Extintor de Incêndio em Ribeirão Preto | Recarga e Venda
+H1 da inicial: Recarga e venda de extintor de incêndio em Ribeirão Preto
+subtítulo do hero: Extintor vencido, para recarregar ou para comprar? Fale no WhatsApp, diga o tipo e a quantidade e receba o valor antes de combinar.
+meta description da inicial: Recarga e venda de extintor de incêndio em Ribeirão Preto para casas, comércios e empresas. Peça o valor pelo WhatsApp ou ligue agora.
+o que a pessoa deve informar no atendimento: o bairro, quantos extintores são, o tipo (pó ABC, CO2 ou água) e se é recarga ou compra
+mensagem padrão do WhatsApp: Olá! Vim pelo site Extintor em Ribeirão Preto e preciso de extintor de incêndio em Ribeirão Preto.
+
+SERVIÇOS (cada um vira uma página; a "mensagem" é o complemento de: Olá! Vim pelo site e gostaria de ... em Ribeirão Preto.):
+- slug: recarga-de-extintor
+  nome: Recarga de extintor
+  descrição: Recarga de extintores de pó ABC, CO2 e água pressurizada. A recarga costuma ser anual, e o prestador confere a validade do selo e o estado do cilindro antes de devolver o equipamento.
+  mensagem: recarregar extintores
+- slug: venda-de-extintor-novo
+  nome: Venda de extintor novo
+  descrição: Extintores novos para casas, lojas, oficinas e empresas. Informe o ambiente e o que existe no local para o prestador indicar o tipo e a capacidade adequados.
+  mensagem: comprar extintores novos
+- slug: manutencao-e-teste-hidrostatico
+  nome: Manutenção e teste hidrostático
+  descrição: Inspeção do extintor, troca de peças e teste hidrostático do cilindro, que em geral é refeito a cada 5 anos. Informe o ano de fabricação gravado no cilindro.
+  mensagem: fazer manutenção ou teste hidrostático em extintores
+
+DIFERENCIAIS (seção "O que você encontra por aqui"):
+- Valor antes de fechar: Você informa tipo e quantidade e recebe o preço pelo WhatsApp, sem visita para orçar.
+- Retirada e entrega: O prestador combina a retirada dos extintores e a devolução recarregados no seu endereço.
+- Casas, comércios e empresas: Atendimento para residências, lojas, oficinas, escolas, condomínios e indústrias.
+- Equipamento com selo: Peça ao prestador o selo do Inmetro e a etiqueta de manutenção em cada extintor.
+
+PERGUNTAS FREQUENTES:
+- P: De quanto em quanto tempo preciso recarregar o extintor?
+  R: A recarga costuma ser anual, e a validade aparece na etiqueta do extintor. Se a data venceu, o extintor deve ser recarregado e revisado. Confirme o prazo com o prestador.
+- P: O que é o teste hidrostático?
+  R: É um teste de pressão feito no cilindro para verificar se ele aguenta o uso. Em geral é repetido a cada 5 anos, e o ano de fabricação fica gravado no cilindro.
+- P: Qual extintor devo ter no meu comércio ou casa?
+  R: Depende do que existe no local. O pó ABC atende madeira, líquidos inflamáveis e equipamentos elétricos, a água serve para papel e madeira, e o CO2 é comum em áreas com equipamentos eletrônicos. Descreva o ambiente no WhatsApp para receber a indicação.
+- P: Meu imóvel precisa de extintor?
+  R: Comércios, empresas e condomínios em geral têm exigências do Corpo de Bombeiros do estado. Consulte o prestador ou o Corpo de Bombeiros sobre o que vale para o seu imóvel.
+- P: Como peço o orçamento?
+  R: Clique em WhatsApp ou Ligue agora e informe o bairro, a quantidade, o tipo de extintor e se é recarga ou compra. O valor é passado na conversa.
+
+SITUAÇÕES TÍPICAS (usar para variar as páginas de bairro): recarga de extintores vencidos em comércios e oficinas; compra de extintores para casas, apartamentos e condomínios; teste hidrostático e manutenção em empresas
+
+
+======================================================================
+1. PAPEL E OBJETIVO
+======================================================================
+Você é um desenvolvedor front-end sênior e especialista em SEO local e em GEO (otimização para respostas de IA). Crie um site estático multipágina, em português do Brasil, para captar contatos de pessoas que procuram um serviço local em Ribeirão Preto (SP). O site tem dois botões principais em destaque, WhatsApp e Ligue agora, e cada clique deve ser registrado em uma planilha Google (seção 9).
+
+Contexto do negócio: o site é um portal de contato. O dono do portal vende os contatos (leads) para um prestador de serviço da cidade, redirecionando o WhatsApp do site para o número dele. Por isso o número de WhatsApp e o de telefone precisam ficar em um único arquivo de configuração (config.js) e ser trocados sem mexer nas páginas. O site não presta o serviço diretamente, mas não informar isso no site.
+
+Metas: aparecer nas primeiras posições do Google para buscas como "[serviço] em Ribeirão Preto" e ser citado por buscas de IA (ChatGPT, Gemini, Perplexity, AI Overviews). Visual simples e confiável, que passe a impressão de prestador local, direto e honesto.
+
+======================================================================
+2. TECNOLOGIA (obrigatório)
+======================================================================
+- HTML, CSS e JavaScript puros. Sem React, sem Vite, sem framework e sem etapa de build. Cada página é um arquivo HTML real, com todo o texto já escrito no HTML (nada renderizado por JavaScript no navegador), porque robôs de busca e de IA precisam ler o conteúdo sem executar scripts.
+- Páginas em pastas com index.html (URLs limpas, com barra final). Exemplo: /servicos/nome-do-servico/index.html.
+- Um único style.css, um tracker.js e um config.js, compartilhados por todas as páginas.
+- Mobile first. Nota alta no Lighthouse: sem bibliotecas pesadas, imagens em JPG compactadas (até cerca de 150 KB cada), loading="lazy" nas imagens fora da primeira dobra, width e height nas imagens.
+- O projeto deve publicar na Vercel como site estático (Framework Preset: Other, sem comando de build, diretório de saída na raiz). Inclua vercel.json com cleanUrls true e trailingSlash true.
+- Estrutura de arquivos da raiz do repositório:
+  index.html
+  servicos/<slug-do-servico>/index.html  (3 páginas)
+  bairros/<slug-do-bairro>/index.html  (6 páginas)
+  sobre/index.html
+  perguntas-frequentes/index.html
+  politica-de-privacidade/index.html
+  img/ (fotos)
+  style.css
+  tracker.js
+  config.js
+  favicon.svg
+  sitemap.xml
+  robots.txt
+  llms.txt
+  vercel.json
+  apps-script/Code.gs  (script da planilha, anexo no fim)
+  LEIA-ME.txt
+
+======================================================================
+3. PÁGINAS E CONTEÚDO
+======================================================================
+Total de 13 páginas. Os dados do nicho (nome, título, textos, serviços, FAQ) são o bloco NICHO que você mesmo cria na seção 0, antes de gerar o site. Use esses textos como base e expanda onde indicado.
+
+Cidade: Ribeirão Preto, SP. Bairros (uma página cada): Centro, Jardim Botânico, Nova Aliança, Vila Tibério, Bonfim Paulista, Campos Elíseos. Slugs dos bairros: centro, jardim-botanico, nova-alianca, vila-tiberio, bonfim-paulista, campos-eliseos.
+
+Página inicial, na ordem:
+1. Barra de navegação flutuante (seção 4).
+2. Hero com foto de fundo, selo "Atendimento em Ribeirão Preto e região", H1 do nicho, subtítulo e dois botões: WhatsApp (verde, sólido) e Ligue agora (contorno branco).
+3. Barra de pedido rápido sobreposta ao hero, com duas listas (Onde você está: bairros + "Ribeirão Preto (qualquer bairro)" + "Região de Ribeirão Preto"; O que você precisa: os serviços do nicho) e um botão "Pedir no WhatsApp" que monta a mensagem conforme as escolhas (a lógica está no tracker.js do anexo).
+4. Seção de boas-vindas em duas colunas: foto emoldurada (moldura branca, sombra) com selo redondo "Atendimento local" no canto; ao lado o título "Pedido simples, direto pelo WhatsApp", um parágrafo, lista numerada de 3 passos e botão de WhatsApp.
+5. Seção de serviços em fundo suave: título centralizado, 3 cards com foto no topo, título, descrição, botão "Pedir no WhatsApp" (com mensagem própria do serviço) e link "Ver detalhes" para a página do serviço.
+6. Seção "O que você encontra por aqui" com 4 itens curtos (os diferenciais do nicho), cada um com ícone de check.
+7. Seção de bairros atendidos, com links em formato de pílula para as páginas de bairro.
+8. Dúvidas frequentes (5 perguntas do nicho, em elementos details/summary) e link para a página completa.
+9. Faixa final arredondada na cor escura do nicho, com o título "Peça o orçamento de [serviço]", frase curta e os dois botões.
+10. Rodapé escuro com três colunas (sobre, serviços, bairros e institucional) e o aviso legal (seção 6).
+Barra fixa no rodapé em telas pequenas, com os botões WhatsApp e Ligue agora lado a lado (some em telas a partir de 760 px).
+
+Páginas de serviço (3): migalha de pão, H1 "[Nome do serviço] em Ribeirão Preto", foto, descrição, botões, e seções com no mínimo 250 palavras de texto útil e único: quando o serviço é indicado, o que informar no atendimento, como funciona o pedido, dúvidas comuns sobre aquele serviço (2 a 3 perguntas próprias), bairros atendidos e links para os outros serviços. Inclua faixa final com os botões.
+
+Páginas de bairro (6): migalha de pão, H1 "[Serviço] no [Bairro], Ribeirão Preto", pelo menos 150 palavras próprias, que mudam de verdade de um bairro para outro (alterne os tipos de situação do nicho, a ordem dos blocos e os exemplos). Não invente fatos sobre o bairro (ruas, prédios, estabelecimentos, tempo de deslocamento). Fale apenas de situações típicas do serviço e de como pedir. Links para os serviços e para os outros bairros. Faixa final com os botões.
+
+Sobre, Perguntas frequentes (todas as perguntas do nicho) e Política de privacidade (texto na seção 11).
+
+======================================================================
+4. DESIGN (seguir esta referência visual)
+======================================================================
+Referência aprovada: página de imobiliária com visual orgânico e acolhedor. Reproduza a estrutura e o estilo, adaptando a paleta ao nicho:
+- Barra de navegação flutuante em formato de pílula branca com sombra suave: logo à esquerda (nome do portal em negrito na cor do nicho), links no centro (Serviços, Bairros, Dúvidas, Sobre; escondidos no celular), botão "Ligue agora" em pílula à direita. A barra fica fixa no topo (sticky) e sobrepõe o hero.
+- Hero grande com cantos arredondados (32 px), foto de fundo cobrindo tudo, escurecimento em degradê para dar contraste, título branco grande e em negrito, selo translúcido arredondado acima do título, dois botões em pílula.
+- Barra de pedido rápido em formato de pílula, na cor suave do nicho, sobreposta à parte de baixo do hero, com campos brancos arredondados e botão verde.
+- Seções alternando fundo creme e fundo suave da cor do nicho. Cards com cantos de 22 px, foto no topo e sombra leve. Botões sempre em pílula. Cantos arredondados em tudo.
+- Fonte: Fira Sans (Google Fonts, pesos 400, 500, 600, 700 e 800, display=swap), com fonte do sistema como alternativa.
+- Cores: fundo #fdfbf7, texto #23201d, texto secundário #5b5650, linhas #e8e2d8. Botão WhatsApp verde #157a3e (hover mais escuro #0f5f30), botão Ligue agora #1f2937. A cor de destaque, a versão escura, e as duas suaves vêm do bloco do nicho.
+- Acessibilidade: contraste mínimo AA, foco visível, alvos de toque de pelo menos 44 px, respeitar prefers-reduced-motion.
+- Use o CSS base abaixo (seção 5) como ponto de partida e mantenha as classes. Substitua %COR%, %ESC%, %TINT% e %TINT2% pelos valores do bloco do nicho.
+
+Ícones do WhatsApp e de telefone: SVG inline simples, dentro dos botões.
+
+======================================================================
+5. CSS BASE (style.css)
+======================================================================
+
+:root{--cor:%COR%;--esc:%ESC%;--tint:%TINT%;--tint2:%TINT2%;--txt:#23201d;--mut:#5b5650;--bg:#fdfbf7;--lin:#e8e2d8;--zap:#157a3e;--zap2:#0f5f30;--tel:#1f2937}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font:17px/1.65 "Fira Sans",system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;color:var(--txt);background:var(--bg);padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))}
+a{color:var(--esc)}
+img{max-width:100%}
+.w{max-width:1100px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+
+/* barra flutuante */
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:40;padding:12px 0}
+.pill{display:flex;align-items:center;justify-content:space-between;gap:14px;background:rgba(255,255,255,.94);backdrop-filter:blur(8px);border-radius:999px;padding:9px 10px 9px 24px;box-shadow:0 6px 24px rgba(35,32,29,.14)}
+.logo{font-weight:800;text-decoration:none;color:var(--esc);font-size:1.12rem;line-height:1.15;letter-spacing:-.01em}
+.logo span{color:var(--txt);font-weight:600}
+nav.menu{display:none;gap:26px}
+nav.menu a{color:var(--txt);text-decoration:none;font-size:.97rem;font-weight:500}
+nav.menu a:hover{color:var(--cor)}
+
+/* botões */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;padding:15px 26px;border-radius:999px;font-weight:700;font-size:1.03rem;text-decoration:none;color:#fff;border:2px solid transparent;cursor:pointer;line-height:1.1;font-family:inherit}
+.btn svg{width:21px;height:21px;flex:none;fill:currentColor}
+.btn.zap{background:var(--zap)}
+.btn.tel{background:var(--tel)}
+.btn.ghost{background:transparent;border-color:#fff;color:#fff}
+.btn.cor{background:var(--esc)}
+.btn.peq{padding:11px 20px;font-size:.95rem}
+.btn:hover{filter:brightness(1.08)}
+.btn:focus-visible,a:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #f5b301;outline-offset:2px}
+
+/* hero com foto */
+.hero-card{position:relative;margin-top:-82px;border-radius:0 0 32px 32px;overflow:hidden;color:#fff;background:linear-gradient(135deg,var(--esc),var(--cor));background-size:cover;background-position:center}
+.hero-card.com-foto::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.5),rgba(0,0,0,.28) 55%,rgba(0,0,0,.5))}
+.hero-card .w{position:relative;padding-top:150px;padding-bottom:104px}
+.tag{display:inline-block;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.45);color:#fff;padding:5px 15px;border-radius:999px;font-size:.88rem;margin-bottom:18px}
+h1{font-size:clamp(2rem,6vw,3.5rem);line-height:1.1;margin:0 0 16px;letter-spacing:-.02em;text-wrap:balance}
+.hero-card h1{color:#fff;max-width:720px;text-shadow:0 2px 18px rgba(0,0,0,.3)}
+.hero-card p.sub{font-size:1.15rem;max-width:560px;margin:0 0 28px;color:#fff;opacity:.95}
+.acoes{display:flex;flex-wrap:wrap;gap:12px}
+.acoes .btn{flex:1 1 210px;max-width:300px}
+
+/* barra de pedido sobreposta */
+.rapido{position:relative;z-index:5;margin:-44px auto 0;max-width:880px;background:var(--tint2);border-radius:999px;padding:14px;display:grid;gap:10px;grid-template-columns:1fr;box-shadow:0 10px 30px rgba(35,32,29,.16)}
+.rapido label{display:block;background:#fff;border-radius:999px;padding:8px 20px;position:relative}
+.rapido label span{display:block;font-size:.74rem;color:var(--mut);letter-spacing:.04em;text-transform:uppercase}
+.rapido select{width:100%;border:0;background:transparent;font:inherit;font-weight:600;color:var(--txt);padding:2px 0;appearance:none;-webkit-appearance:none;cursor:pointer}
+.rapido label::after{content:"";position:absolute;right:20px;top:50%;width:8px;height:8px;border-right:2px solid var(--mut);border-bottom:2px solid var(--mut);transform:translateY(-70%) rotate(45deg);pointer-events:none}
+.rapido .btn{padding:16px 28px}
+.rapido-wrap{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+
+section{padding:56px 0}
+section.tint{background:var(--tint)}
+h2{font-size:clamp(1.55rem,4vw,2.15rem);line-height:1.2;margin:0 0 14px;letter-spacing:-.01em;text-wrap:balance}
+h3{font-size:1.18rem;margin:0 0 6px}
+.centro{text-align:center}
+.sub2{color:var(--mut);max-width:620px;margin:0 auto 30px}
+
+/* boas-vindas */
+.duas{display:grid;gap:34px;grid-template-columns:1fr;align-items:center}
+.moldura{position:relative;background:#fff;padding:8px;border-radius:10px;box-shadow:0 14px 34px rgba(35,32,29,.18);max-width:480px;justify-self:center}
+.moldura .foto,.moldura .ph{border-radius:6px;margin:0;aspect-ratio:4/3;width:100%}
+.selo{position:absolute;left:-14px;top:-14px;width:104px;height:104px;border-radius:50%;background:var(--esc);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;font-size:.76rem;line-height:1.2;font-weight:600;box-shadow:0 6px 18px rgba(0,0,0,.25);border:4px solid #fff}
+.selo svg{width:28px;height:28px;fill:#fff;margin-bottom:4px}
+ol.passos{padding-left:22px;margin:0 0 24px}
+ol.passos li{margin-bottom:8px;color:var(--mut)}
+
+/* cards */
+.grade{display:grid;gap:22px;grid-template-columns:1fr}
+.card{background:#fff;border-radius:22px;overflow:hidden;box-shadow:0 8px 26px rgba(35,32,29,.1);display:flex;flex-direction:column}
+.card .corpo{padding:20px 22px 24px;display:flex;flex-direction:column;gap:10px;flex:1}
+.card p{margin:0;color:var(--mut);font-size:.98rem}
+.card .btn{align-self:flex-start;margin-top:auto}
+.card .mais{font-weight:600;text-decoration:none;font-size:.95rem}
+.ph{display:flex;align-items:center;justify-content:center;aspect-ratio:4/3;background:linear-gradient(135deg,var(--tint2),var(--tint));color:var(--cor);text-align:center;font-size:.9rem;padding:12px}
+.ph svg{width:54px;height:54px;fill:currentColor;opacity:.55}
+.foto{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;margin:18px 0;border-radius:16px}
+.card .foto{margin:0;border-radius:0}
+.mini{display:grid;gap:16px;grid-template-columns:1fr}
+.mini div{background:#fff;border:1px solid var(--lin);border-radius:18px;padding:18px 20px}
+.mini h3{display:flex;align-items:center;gap:8px}
+.mini svg{width:20px;height:20px;fill:var(--cor);flex:none}
+.mini p{margin:0;color:var(--mut);font-size:.96rem}
+
+.bairros{display:flex;flex-wrap:wrap;gap:10px;padding:0;margin:0;list-style:none}
+.bairros a{display:block;padding:9px 18px;border:1px solid var(--lin);border-radius:999px;text-decoration:none;color:var(--txt);background:#fff;font-size:.96rem}
+.bairros a:hover{border-color:var(--cor);color:var(--esc)}
+details{border:1px solid var(--lin);border-radius:18px;background:#fff;margin-bottom:10px;padding:0 20px}
+summary{cursor:pointer;padding:16px 0;font-weight:600;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";float:right;color:var(--cor);font-size:1.4rem;line-height:1}
+details[open] summary::after{content:"\2212"}
+details p{margin:0 0 16px;color:var(--mut)}
+
+/* chamada final */
+.faixa{background:var(--esc);color:#fff;border-radius:32px;padding:44px 24px;text-align:center}
+.faixa h2{color:#fff}
+.faixa p{margin:0 auto 22px;max-width:560px;opacity:.95}
+.faixa .acoes{justify-content:center}
+.cta{padding:20px 0 56px}
+.cta .w>div{background:var(--esc);color:#fff;border-radius:32px;padding:44px 24px;text-align:center}
+.cta h2{color:#fff}
+.cta p{margin:0 auto 22px;max-width:560px}
+.cta .acoes{justify-content:center}
+
+/* páginas internas */
+.crumb{font-size:.9rem;color:var(--mut);padding:8px 0 0}
+.crumb a{color:var(--mut)}
+article{padding-top:14px}
+article p,article li{color:var(--mut)}
+article h2{margin-top:28px}
+article h1{color:var(--txt)}
+
+footer{background:#1f1b18;color:#d6d0c8;padding:40px 0 26px;font-size:.94rem;border-radius:32px 32px 0 0}
+footer a{color:#efe9e0;text-decoration:none}
+footer a:hover{text-decoration:underline}
+footer h4{color:#fff;margin:0 0 8px;font-size:1rem}
+footer ul{list-style:none;padding:0;margin:0}
+footer li{margin-bottom:5px}
+.fgrid{display:grid;gap:24px;grid-template-columns:1fr}
+.aviso{border-top:1px solid #3a342f;margin-top:24px;padding-top:16px;color:#a39b91;font-size:.86rem}
+
+.barra{position:fixed;left:0;right:0;bottom:0;z-index:50;display:flex;gap:10px;padding:10px max(12px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(12px,env(safe-area-inset-left,0px));background:#fff;border-top:1px solid var(--lin);box-shadow:0 -4px 14px rgba(0,0,0,.07)}
+.barra .btn{flex:1;padding:14px 10px}
+
+@media(min-width:760px){
+ nav.menu{display:flex}
+ .rapido{grid-template-columns:1fr 1fr auto;align-items:center}
+ .duas{grid-template-columns:1fr 1fr;gap:56px}
+ .grade{grid-template-columns:repeat(3,1fr)}
+ .mini{grid-template-columns:repeat(4,1fr)}
+ .fgrid{grid-template-columns:1.4fr 1fr 1fr}
+ .barra{display:none}
+ body{padding-bottom:0}
+ .hero-card{margin-left:max(16px,calc((100% - 1260px)/2));margin-right:max(16px,calc((100% - 1260px)/2));border-radius:32px;margin-top:-82px}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+
+======================================================================
+6. REGRAS DE REDAÇÃO (muito importantes)
+======================================================================
+- Português do Brasil, linguagem simples e direta, frases curtas, sem tom de propaganda. Evite exageros, travessão (use vírgula, ponto ou dois-pontos), excesso de negrito, listas de três itens por reflexo, emojis e frases como "não é X, é Y".
+- NÃO prometa preço, desconto, "mais barato", tempo de chegada, atendimento 24 horas, garantia, certificações ou avaliações de clientes. Nada de depoimentos, estrelas ou números inventados. Esses itens só podem entrar quando o prestador confirmar que são verdadeiros.
+- NÃO invente endereço, CNPJ, nome de empresa ou fotos de equipe. O portal não tem endereço. Não use o schema LocalBusiness com endereço falso.
+- O site usa terceira pessoa ("o prestador", "o atendente"). Não escreva em primeira pessoa do singular.
+- Aviso obrigatório no rodapé de todas as páginas: "Este site é um portal de contato e não presta o serviço diretamente. O atendimento é feito por prestadores parceiros da região. Valores, prazos e formas de pagamento são informados pelo prestador no atendimento."
+- Em cada página, os botões de WhatsApp e Ligue agora devem aparecer pelo menos no topo (menu), no corpo e na faixa final.
+- Todo texto de serviço deve ser tecnicamente correto e cauteloso quando falar de normas, prazos e exigências legais (diga "confirme com o prestador" ou "consulte o órgão competente" quando houver dúvida).
+
+======================================================================
+7. SEO
+======================================================================
+- Em cada página: <title> de até 60 caracteres, meta description de 120 a 155 caracteres, link canonical absoluto, um único H1, hierarquia H2/H3 lógica, Open Graph e Twitter Card, meta robots index,follow, lang="pt-BR", meta theme-color, favicon.svg, viewport.
+- O domínio base é https://SLUG-DO-SITE.vercel.app, onde SLUG-DO-SITE é o "slug" do bloco do nicho. Deixe o domínio em uma única variável no topo do README para trocar depois por um domínio próprio.
+- sitemap.xml com todas as 13 páginas, lastmod com a data de hoje e prioridade (1.0 inicial, 0.8 serviços, 0.6 demais). robots.txt liberando tudo e apontando o sitemap.
+- Links internos entre home, serviços, bairros e FAQ, com texto âncora descritivo. Migalhas de pão nas páginas internas, com marcação BreadcrumbList.
+- Palavras-chave naturais: serviço + Ribeirão Preto + bairro. Sem repetição forçada.
+- Imagens com atributo alt descritivo e neutro (ex.: "Extintores de incêndio alinhados em uma bancada"). Nunca escreva no alt que a foto é do prestador, da equipe ou do veículo.
+
+======================================================================
+8. GEO (otimização para buscas de IA)
+======================================================================
+- Respostas diretas no início de cada seção ("O que é", "Quando fazer", "Como pedir"), em frases completas que possam ser citadas.
+- Dados estruturados JSON-LD em cada página: WebSite na inicial; Service nas páginas de serviço e de bairro (provider = Organization com o nome do portal e a URL, areaServed = City Ribeirão Preto, containedInPlace = estado de São Paulo); FAQPage na inicial e na página de perguntas frequentes (as mesmas perguntas e respostas que aparecem no HTML); BreadcrumbList nas internas. O JSON-LD precisa ser válido.
+- Arquivo llms.txt na raiz, em Markdown: título, resumo em uma frase, lista de serviços com link e descrição, lista de bairros com link, links das páginas institucionais e todas as perguntas e respostas do nicho.
+- Termos consistentes em todo o site (sempre o mesmo nome do serviço e do portal) e informação factual curta.
+
+======================================================================
+9. BOTÕES E REGISTRO DE CLIQUES NA PLANILHA GOOGLE
+======================================================================
+Planilha de registro: já existe um Google Apps Script publicado como aplicativo da web. URL (endpoint) que deve ser usada em todos os sites:
+https://script.google.com/macros/s/AKfycbzNOf1W0H8qo7UEY0AGEyLIF3ksLYgj2YELKy9OytgORZ_3Zs6PmRGl_a2p9w-myqdnlg/exec
+
+Regras:
+- Todo botão de WhatsApp tem os atributos data-acao="whatsapp", data-local="<onde está o botão>" (topo, hero, busca, card, sobre, servico, bairro, final, barra-fixa) e data-msg="<mensagem pré-preenchida>". Todo botão Ligue agora tem data-acao="ligar" e data-local. O href inicial usa o número provisório 5516900000000 (https://wa.me/5516900000000?text=... e tel:+5516900000000); o tracker.js troca os links pelos números do config.js ao carregar.
+- config.js (um por site, é o arquivo que o dono edita):
+    window.SITE_CONFIG = {
+      site: "<slug do site>",
+      nicho: "<termo do nicho>",
+      whatsapp: "5516900000000",   // 55 + DDD + número, só dígitos
+      telefone: "5516900000000",
+      mensagem: "<mensagem padrão do bloco do nicho>",
+      cidade: "Ribeirão Preto",
+      endpoint: "<URL do Apps Script acima>"
+    };
+  Inclua no config.js comentários explicando onde trocar os números.
+- Em cada clique, o tracker.js envia uma requisição GET ao endpoint com os parâmetros: site, nicho, acao, local, pagina, titulo, origem, utm_source, utm_medium, utm_campaign, utm_term, gclid (apenas "sim" quando houver), dispositivo (celular ou computador), tela, idioma, detalhe (a mensagem enviada) e sessao (código aleatório). Use fetch com mode "no-cors" e keepalive true, e como alternativa um new Image().src. A data e a hora são carimbadas pelo servidor, no fuso America/Sao_Paulo. Use o tracker.js do anexo A, sem alterações de lógica.
+- O script da planilha está no anexo B (Code.gs). Ele aceita o formato GET destes sites e o POST com JSON e token do site do guincho, e grava os dois nas mesmas 19 colunas da aba "Cliques": Data e hora, Dia, Hora, Dia da semana, Site, Botão, Posição, Página, Origem, Meio, Campanha, Termo, Dispositivo, Veio de anúncio, Tela, Idioma, Sessão, Mensagem, Nicho. A coluna Site permite que uma única planilha receba os cliques de todos os sites.
+- No LEIA-ME.txt explique, em linguagem de leigo: abrir a planilha, Extensões > Apps Script, colar o Code.gs, executar a função setup() uma vez, Implantar > Gerenciar implantações > editar a implantação existente > Nova versão (assim a URL continua a mesma), acesso "Qualquer pessoa". Explique também como montar o relatório por site com Inserir > Tabela dinâmica (Site em linhas, contagem de Ação em valores).
+- Não coletar nome, e-mail, CPF ou qualquer dado pessoal. Sem cookies de publicidade.
+
+======================================================================
+10. IMAGENS (fotos realistas)
+======================================================================
+Gere as imagens com o modelo de imagem disponível e salve como JPG em /img, com estes nomes fixos:
+  hero.jpg (horizontal, 1600x900), sobre.jpg (4:3, 1000x750) e uma imagem por serviço, com o nome do slug do serviço (4:3, 1000x750).
+Estilo: foto realista de celular, amadora, sem produção. Luz natural, leve imperfeição, ambiente real de trabalho (bancada, oficina, rua, casa), enquadramento do dia a dia, sem pose de catálogo e sem estúdio. Proibido: texto, logotipos, marcas conhecidas, placas legíveis, rostos em destaque, mãos deformadas e qualquer elemento que pareça propaganda. Mostre o equipamento, o serviço sendo feito ou o resultado, de forma neutra.
+Se não for possível gerar e salvar arquivos de imagem, deixe os espaços das fotos com uma caixa neutra na cor suave do nicho e crie o arquivo img/PROMPTS.txt com um prompt de imagem pronto para cada arquivo (hero.jpg, sobre.jpg e os serviços), no estilo descrito acima.
+Como são imagens ilustrativas, não escreva em nenhum texto do site que a foto mostra o veículo, a equipe ou a empresa do prestador. Quando o prestador enviar fotos reais, basta substituir os arquivos de img/ mantendo o mesmo nome. Explique isso no LEIA-ME.txt.
+
+======================================================================
+11. POLÍTICA DE PRIVACIDADE (LGPD)
+======================================================================
+Escreva a página com estes pontos, em linguagem clara:
+- Dados que o site registra: ao clicar nos botões de WhatsApp ou Ligue agora, o site registra data e horário, o botão acionado, a página, a origem da visita, o tipo de aparelho, o tamanho da tela, o idioma do navegador, a mensagem pré-preenchida e um código de sessão aleatório. Não pede nome, e-mail nem CPF e não usa cookies de publicidade.
+- Finalidade: medir quantas pessoas pedem orçamento e quais páginas funcionam melhor. Os registros não identificam diretamente uma pessoa.
+- Conversa por WhatsApp e telefone: os dados informados passam a ser tratados pelo prestador que atender, para orçar e executar o serviço. O WhatsApp tem política própria.
+- Direitos do titular conforme a Lei 13.709/2018 (LGPD): informação, correção e exclusão, solicitados pelo botão de WhatsApp do site.
+- Data de atualização.
+
+======================================================================
+12. VERIFICAÇÃO ANTES DE ENTREGAR
+======================================================================
+Confira e corrija:
+1. As 13 páginas existem, cada uma com um H1, title até 60 caracteres, description entre 120 e 155 caracteres e canonical correto.
+2. Todos os links internos funcionam (sem 404) e o sitemap lista as 13 páginas.
+3. Todo JSON-LD é válido e as respostas da FAQ no JSON-LD são idênticas às do HTML.
+4. Todos os botões têm data-acao e data-local, e o clique chama o endpoint (teste no console do navegador).
+5. Trocar os números em config.js muda os links de todas as páginas.
+6. Sem horizontal scroll em 360 px, e os botões da barra fixa aparecem no celular.
+7. Nenhuma promessa proibida na seção 6 e nenhum travessão nos textos.
+8. As imagens estão compactadas e com alt neutro.
+
+======================================================================
+13. ENTREGA E PUBLICAÇÃO
+======================================================================
+Entregue o projeto completo, pronto para ser enviado ao GitHub (um repositório por site, com o nome igual ao slug do site) e importado na Vercel (Framework Preset: Other; Build Command vazio; Output Directory vazio). Inclua o LEIA-ME.txt com: como trocar os números (config.js), como atualizar o Code.gs na planilha, como cadastrar o site no Google Search Console e enviar o sitemap, e a recomendação de criar um perfil no Google Meu Negócio quando houver um prestador com endereço real.
+
+
+======================================================================
+ANEXO A: tracker.js (copiar sem alterar a lógica)
+======================================================================
+(function () {
+  var C = window.SITE_CONFIG || {};
+  function so(s) { return String(s || '').replace(/\D/g, ''); }
+
+  // Ajusta os links a partir do config.js
+  var links = document.querySelectorAll('[data-acao]');
+  for (var i = 0; i < links.length; i++) {
+    var a = links[i], acao = a.getAttribute('data-acao');
+    if (acao === 'whatsapp') {
+      var msg = a.getAttribute('data-msg') || C.mensagem || '';
+      a.href = 'https://wa.me/' + so(C.whatsapp) + '?text=' + encodeURIComponent(msg);
+      a.target = '_blank'; a.rel = 'noopener';
+    } else if (acao === 'ligar') {
+      a.href = 'tel:+' + so(C.telefone);
+    }
+  }
+
+  // Barra de pedido rápido da página inicial
+  var rapido = document.getElementById('rapido');
+  if (rapido) {
+    var onde = document.getElementById('r-onde'), oque = document.getElementById('r-oque');
+    var botao = rapido.querySelector('[data-acao]');
+    var atualizar = function () {
+      var cidade = C.cidade || 'Ribeirão Preto', lugar;
+      if (onde.value === '__regiao') lugar = 'na região de ' + cidade;
+      else if (onde.value) lugar = 'no bairro ' + onde.value + ', em ' + cidade;
+      else lugar = 'em ' + cidade;
+      var m = 'Olá! Vim pelo site e gostaria de ' + oque.value + ' ' + lugar + '.';
+      botao.setAttribute('data-msg', m);
+      botao.href = 'https://wa.me/' + so(C.whatsapp) + '?text=' + encodeURIComponent(m);
+    };
+    onde.addEventListener('change', atualizar);
+    oque.addEventListener('change', atualizar);
+    atualizar();
+  }
+
+  function sessao() {
+    try {
+      var s = sessionStorage.getItem('sid');
+      if (!s) { s = Math.random().toString(36).slice(2, 10); sessionStorage.setItem('sid', s); }
+      return s;
+    } catch (e) { return ''; }
+  }
+
+  function param(nome) {
+    try { return new URLSearchParams(location.search).get(nome) || ''; } catch (e) { return ''; }
+  }
+
+  function registrar(acao, local, detalhe) {
+    if (!C.endpoint) return;
+    var d = {
+      site: C.site || location.hostname,
+      nicho: C.nicho || '',
+      acao: acao,
+      local: local || '',
+      pagina: location.pathname,
+      titulo: document.title,
+      origem: document.referrer || '',
+      utm_source: param('utm_source'),
+      utm_medium: param('utm_medium'),
+      utm_campaign: param('utm_campaign'),
+      utm_term: param('utm_term'),
+      gclid: param('gclid') ? 'sim' : '',
+      dispositivo: /Mobi|Android|iPhone/i.test(navigator.userAgent) ? 'celular' : 'computador',
+      tela: screen.width + 'x' + screen.height,
+      idioma: navigator.language || '',
+      detalhe: detalhe || '',
+      sessao: sessao()
+    };
+    var q = Object.keys(d).map(function (k) { return k + '=' + encodeURIComponent(d[k]); }).join('&');
+    var url = C.endpoint + '?' + q;
+    try {
+      fetch(url, { method: 'GET', mode: 'no-cors', keepalive: true });
+    } catch (e) {
+      try { new Image().src = url; } catch (e2) {}
+    }
+  }
+
+  document.addEventListener('click', function (ev) {
+    var el = ev.target.closest ? ev.target.closest('[data-acao]') : null;
+    if (!el) return;
+    registrar(el.getAttribute('data-acao'), el.getAttribute('data-local'), el.getAttribute('data-msg'));
+  }, true);
+
+  window.registrarClique = registrar;
+})();
+
+======================================================================
+ANEXO B: apps-script/Code.gs (copiar sem alterações)
+======================================================================
+/**
+ * Registro de cliques dos sites de leads, em uma única planilha.
+ *
+ * Recebe dois formatos e grava as duas origens nas MESMAS colunas:
+ *  - POST com JSON e token (site do guincho)
+ *  - GET com parâmetros na URL (sites gerados pelo AI Studio)
+ *
+ * Como atualizar:
+ * 1. Extensões > Apps Script, apague todo o código e cole este.
+ * 2. Execute a função setup() uma vez (cria o cabeçalho e a aba Resumo).
+ * 3. Se já existem linhas desalinhadas, execute migrarLinhasAntigas() uma vez.
+ * 4. Implantar > Gerenciar implantações > editar (lápis) > Versão: Nova versão > Implantar. A URL /exec continua a mesma.
+ * 5. Confira: abra a URL /exec no navegador. Deve aparecer "ok v2". Se aparecer "ok", a versão antiga ainda está no ar.
+ */
+
+const VERSAO = 'ok v2';
+const TOKEN = '479479';
+const FUSO = 'America/Sao_Paulo';
+const CAB = ['Data e hora', 'Dia', 'Hora', 'Dia da semana', 'Site', 'Botão', 'Posição',
+  'Página', 'Origem', 'Meio', 'Campanha', 'Termo', 'Dispositivo', 'Veio de anúncio',
+  'Tela', 'Idioma', 'Sessão', 'Mensagem', 'Nicho'];
+const SEMANA = ['domingo', 'segunda-feira', 'terça-feira', 'quarta-feira',
+  'quinta-feira', 'sexta-feira', 'sábado'];
+
+/* ---------- configuração ---------- */
+
+function cabecalho_(sh) {
+  sh.getRange(1, 1, 1, CAB.length).setValues([CAB])
+    .setFontWeight('bold').setBackground('#1F3864').setFontColor('#FFFFFF');
+  sh.setFrozenRows(1);
+  sh.getRange('A:A').setNumberFormat('dd/MM/yyyy HH:mm:ss');
+  sh.getRange('B:B').setNumberFormat('@');
+}
+
+function aba_() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet();
+  let sh = ss.getSheetByName('Cliques');
+  if (!sh) sh = ss.insertSheet('Cliques');
+  if (sh.getLastRow() === 0) cabecalho_(sh);
+  return sh;
+}
+
+function setup() {
+  const ss = SpreadsheetApp.getActiveSpreadsheet();
+  ss.setSpreadsheetTimeZone(FUSO);
+
+  const sh = aba_();
+  cabecalho_(sh);
+
+  const rs = ss.getSheetByName('Resumo') || ss.insertSheet('Resumo');
+  rs.clear();
+  rs.getRange('A1').setValue('Cliques por dia e por botão').setFontWeight('bold');
+  rs.getRange('A2').setFormula(
+    `=QUERY(Cliques!A2:S, "select B, count(B) where B is not null group by B pivot F order by B desc label B 'Dia'", 0)`);
+  rs.getRange('G1').setValue('Cliques por hora do dia').setFontWeight('bold');
+  rs.getRange('G2').setFormula(
+    `=QUERY(Cliques!A2:S, "select C, count(C) where C is not null group by C order by C label C 'Hora', count(C) 'Cliques'", 0)`);
+  rs.getRange('M1').setValue('Cliques por site e por botão').setFontWeight('bold');
+  rs.getRange('M2').setFormula(
+    `=QUERY(Cliques!A2:S, "select E, count(E) where E is not null group by E pivot F order by E label E 'Site'", 0)`);
+}
+
+/* ---------- padronização dos valores ---------- */
+
+function limpa_(v) {
+  const s = String(v == null ? '' : v).slice(0, 300);
+  return /^[=+\-@]/.test(s) ? "'" + s : s;
+}
+
+function botao_(v) {
+  const s = String(v || '').toLowerCase().trim();
+  if (/whats|zap|wpp/.test(s)) return 'whatsapp';
+  if (/lig|tel|call|fone/.test(s)) return 'ligar';
+  return s;
+}
+
+function origem_(v) {
+  const s = String(v || '').trim();
+  if (!s) return 'direto';
+  const m = s.match(/^https?:\/\/([^\/]+)/i);
+  return m ? m[1].replace(/^www\./, '') : s;
+}
+
+function anuncio_(v) {
+  const s = String(v == null ? '' : v).trim();
+  return s && !/^(n[aã]o|false|0)$/i.test(s) ? 'sim' : 'não';
+}
+
+/* ---------- gravação ---------- */
+
+// d aceita os nomes dos dois formatos (botao/acao, posicao/local, meio/utm_medium...)
+function registrar_(d) {
+  const agora = new Date();
+  const linha = [
+    agora,
+    Utilities.formatDate(agora, FUSO, 'yyyy-MM-dd'),
+    Number(Utilities.formatDate(agora, FUSO, 'H')),
+    SEMANA[Number(Utilities.formatDate(agora, FUSO, 'u')) % 7],
+    limpa_(d.site),
+    botao_(d.botao || d.acao),
+    limpa_(d.posicao || d.local),
+    limpa_(d.pagina),
+    limpa_(origem_(d.origem)),
+    limpa_(d.meio || d.utm_medium),
+    limpa_(d.campanha || d.utm_campaign),
+    limpa_(d.termo || d.utm_term),
+    limpa_(d.dispositivo),
+    anuncio_(d.anuncio || d.gclid),
+    limpa_(d.tela),
+    limpa_(d.idioma),
+    limpa_(d.sessao),
+    limpa_(d.detalhe || d.mensagem),
+    limpa_(d.nicho)
+  ];
+  const trava = LockService.getScriptLock();
+  trava.waitLock(10000);
+  try {
+    aba_().appendRow(linha);
+  } finally {
+    trava.releaseLock();
+  }
+}
+
+// Sites gerados pelo AI Studio (parâmetros na URL)
+function doGet(e) {
+  try {
+    const p = (e && e.parameter) || {};
+    if (p.acao || p.botao) registrar_(p);
+    return ContentService.createTextOutput(VERSAO);
+  } catch (err) {
+    return ContentService.createTextOutput('erro');
+  }
+}
+
+// Site do guincho (JSON com token). Sem JSON, aceita parâmetros como o GET.
+function doPost(e) {
+  try {
+    const bruto = e && e.postData && e.postData.contents;
+    let d = null;
+    try { d = bruto ? JSON.parse(bruto) : null; } catch (x) { d = null; }
+    if (d && typeof d === 'object') {
+      if (d.token !== TOKEN) return ContentService.createTextOutput('negado');
+      registrar_(d);
+    } else {
+      return doGet(e);
+    }
+    return ContentService.createTextOutput(VERSAO);
+  } catch (err) {
+    return ContentService.createTextOutput('erro');
+  }
+}
+
+/* ---------- conserto das linhas antigas ---------- */
+
+// Linhas gravadas pelo formato antigo dos sites novos (data e hora separadas, nicho na coluna D).
+// Cria uma cópia de segurança da aba antes de mexer e é seguro rodar mais de uma vez.
+function migrarLinhasAntigas() {
+  const sh = aba_();
+  const ss = sh.getParent();
+  const n = sh.getLastRow() - 1;
+  if (n < 1) return;
+  const larg = CAB.length;
+  const rng = sh.getRange(2, 1, n, larg);
+  const val = rng.getValues();
+  const vis = rng.getDisplayValues();
+  let migradas = 0, falhas = 0;
+
+  const novo = val.map(function (r, i) {
+    const antiga = SEMANA.indexOf(String(r[3])) === -1 && /^(whatsapp|ligar)$/i.test(String(r[4]));
+    if (!antiga) return r;
+    const dt = dataAntiga_(vis[i][0], vis[i][1]);
+    if (!dt) { falhas++; return r; }
+    migradas++;
+    return [
+      dt,
+      Utilities.formatDate(dt, FUSO, 'yyyy-MM-dd'),
+      Number(Utilities.formatDate(dt, FUSO, 'H')),
+      SEMANA[Number(Utilities.formatDate(dt, FUSO, 'u')) % 7],
+      limpa_(r[2]),            // site
+      botao_(r[4]),            // botão (era "ação")
+      limpa_(r[5]),            // posição (era "local do botão")
+      limpa_(r[6]),            // página
+      limpa_(origem_(r[8])),   // origem
+      limpa_(r[10]),           // meio (utm_medium)
+      limpa_(r[11]),           // campanha
+      limpa_(r[12]),           // termo
+      limpa_(r[14]),           // dispositivo
+      anuncio_(r[13]),         // veio de anúncio
+      limpa_(r[15]),           // tela
+      limpa_(r[16]),           // idioma
+      limpa_(r[17]),           // sessão
+      limpa_(r[18]),           // mensagem
+      limpa_(r[3])             // nicho
+    ];
+  });
+
+  if (migradas === 0) {
+    ss.toast('Nenhuma linha antiga encontrada. Falhas: ' + falhas, 'Migração', 8);
+    return;
+  }
+  sh.copyTo(ss).setName('Backup Cliques ' + Utilities.formatDate(new Date(), FUSO, 'dd-MM HH-mm'));
+  cabecalho_(sh);
+  sh.getRange(2, 1, n, larg).setValues(novo);
+  ss.toast('Linhas corrigidas: ' + migradas + '. Falhas: ' + falhas + '. Cópia de segurança criada.', 'Migração', 10);
+}
+
+function dataAntiga_(a, b) {
+  const sa = String(a || '').trim(), sb = String(b || '').trim();
+  let iso = null, m;
+  if ((m = sa.match(/^(\d{2})\/(\d{2})\/(\d{4})/))) iso = m[3] + '-' + m[2] + '-' + m[1];
+  else if ((m = sa.match(/^(\d{4})-(\d{2})-(\d{2})/))) iso = m[1] + '-' + m[2] + '-' + m[3];
+  const t = sb.match(/(\d{1,2}):(\d{2})(?::(\d{2}))?/);
+  if (!iso || !t) return null;
+  const hora = ('0' + t[1]).slice(-2) + ':' + t[2] + ':' + (t[3] || '00');
+  try {
+    return Utilities.parseDate(iso + ' ' + hora, FUSO, 'yyyy-MM-dd HH:mm:ss');
+  } catch (err) {
+    return null;
+  }
+}
+
+======================================================================
+PEDIDO
+======================================================================
+NICHO DESTE SITE: conserto e fabricação de portas de enrolar 

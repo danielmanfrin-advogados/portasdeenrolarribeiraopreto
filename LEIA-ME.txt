@@ -1,0 +1,100 @@
+DOMINIO_DO_SITE="https://portadeenrolarribeiraopreto.vercel.app"
+
+======================================================================
+PORTAL DE LEADS: PORTAS DE ENROLAR EM RIBEIRÃO PRETO
+======================================================================
+
+Este projeto foi construído para captação de contatos (leads) de conserto, manutenção, motorização e fabricação de portas de enrolar em Ribeirão Preto (SP).
+
+O site é 100% estático (HTML, CSS e JavaScript puros), projetado para máxima velocidade, indexação imediata no Google (SEO local) e citação por robôs de inteligência artificial (GEO).
+
+
+======================================================================
+1. COMO TROCAR OS NÚMEROS DE WHATSAPP E TELEFONE
+======================================================================
+Você não precisa mexer em nenhuma página HTML para mudar para quem vão os contatos.
+Basta abrir o arquivo "config.js" na raiz do projeto e alterar os valores:
+
+window.SITE_CONFIG = {
+  site: "portadeenrolarribeiraopreto",
+  nicho: "porta de enrolar",
+  whatsapp: "5516999998888",   // Coloque 55 + DDD + celular (apenas números)
+  telefone: "5516999998888",   // Coloque 55 + DDD + telefone (apenas números)
+  mensagem: "Olá! Vim pelo site Portas de Enrolar em Ribeirão Preto...",
+  cidade: "Ribeirão Preto",
+  endpoint: "https://script.google.com/macros/s/..."
+};
+
+Ao salvar o arquivo config.js, todos os botões de todas as 13 páginas do site passam a apontar automaticamente para o novo número do prestador parceiro.
+
+
+======================================================================
+2. PLANILHA DE REGISTRO DE CLIQUES (GOOGLE APPS SCRIPT)
+======================================================================
+Todos os cliques nos botões de WhatsApp e Ligue Agora são registrados automaticamente em uma planilha Google, permitindo saber exatamente quantas pessoas pediram orçamento, qual página visitaram e de onde vieram.
+
+Passo a passo simples:
+1. Abra a sua planilha do Google no navegador.
+2. No menu superior, clique em "Extensões" > "Apps Script".
+3. Apague todo o conteúdo que estiver na janela de código.
+4. Abra o arquivo "apps-script/Code.gs" deste projeto, copie todo o texto e cole dentro do Apps Script da planilha.
+5. Na barra de ferramentas do Apps Script, selecione a função "setup" e clique em "Executar" uma única vez. (O Google pedirá autorização na primeira vez; confirme as permissões). Isso criará automaticamente as abas "Cliques" e "Resumo".
+6. Clique no botão azul "Implantar" (canto superior direito) > "Gerenciar implantações".
+7. Clique no ícone de lápis (Editar) ao lado da implantação existente.
+8. No campo "Versão", escolha "Nova versão".
+9. Certifique-se de que "Quem pode acessar" esteja marcado como "Qualquer pessoa".
+10. Clique em "Implantar". A URL continuará a mesma configurada no config.js.
+
+Como ver os relatórios de cliques por site:
+- Na planilha, vá em "Inserir" > "Tabela dinâmica".
+- Crie em uma nova aba.
+- Em "Linhas", adicione a coluna "Site".
+- Em "Valores", adicione o campo "Botão" (ou "Ação") com a fórmula "COUNTA" (contagem).
+- Assim, mesmo que você use a mesma planilha para dezenas de sites de nichos diferentes, verá a contagem exata de cliques de cada um separadamente.
+
+
+======================================================================
+3. FOTOS DO SITE (SUBSTITUIÇÃO PELAS FOTOS DO PRESTADOR)
+======================================================================
+As fotos incluídas na pasta "img/" são ilustrativas para o lançamento inicial.
+Para manter a credibilidade e transparência, nenhuma página afirma que as fotos mostram a frota ou a oficina do prestador parceiro.
+
+Quando o prestador de serviço parceiro enviar fotos reais tiradas pelo celular na oficina ou em obras de Ribeirão Preto, basta salvar as fotos na pasta "img/" com os mesmos nomes de arquivo:
+- img/hero.jpg (foto horizontal de capa, proporção 16:9, aprox. 1600x900)
+- img/sobre.jpg (foto da oficina ou ferramentas, proporção 4:3, aprox. 1000x750)
+- img/conserto-e-manutencao-de-porta-de-enrolar.jpg (proporção 4:3, aprox. 1000x750)
+- img/fabricacao-e-instalacao-de-porta-de-enrolar.jpg (proporção 4:3, aprox. 1000x750)
+- img/motorizacao-e-troca-de-motor.jpg (proporção 4:3, aprox. 1000x750)
+
+Consulte o arquivo "img/PROMPTS.txt" caso queira gerar novas imagens com inteligência artificial seguindo o mesmo padrão fotográfico realista e amador.
+
+
+======================================================================
+4. PUBLICAÇÃO NA VERCEL
+======================================================================
+1. Suba este projeto para um repositório no GitHub com o nome "portadeenrolarribeiraopreto".
+2. Acesse https://vercel.com e clique em "Add New Project".
+3. Importe o repositório.
+4. Nas configurações do projeto:
+   - Framework Preset: Other
+   - Build Command: Deixe vazio (desmarque a opção)
+   - Output Directory: Deixe vazio (raiz)
+5. Clique em "Deploy". O site ficará no ar instantaneamente em https://portadeenrolarribeiraopreto.vercel.app com URLs limpas e certificado SSL gratuito.
+
+
+======================================================================
+5. GOOGLE SEARCH CONSOLE E SITEMAP
+======================================================================
+Para acelerar a indexação no Google:
+1. Acesse https://search.google.com/search-console e faça login.
+2. Adicione a propriedade com o domínio do seu site (ex.: https://portadeenrolarribeiraopreto.vercel.app).
+3. No menu lateral, clique em "Sitemaps".
+4. No campo "Adicionar novo sitemap", digite: sitemap.xml
+5. Clique em "Enviar". O Google fará a leitura das 13 páginas do site.
+
+
+======================================================================
+6. GOOGLE MEU NEGÓCIO (PERFIL DA EMPRESA)
+======================================================================
+O portal não possui endereço físico próprio para não gerar falsas informações locais.
+Quando você fechar parceria com um prestador de serviço de Ribeirão Preto que possua oficina, galpão ou endereço comercial fixo comprovado na cidade, auxilie o prestador a cadastrar ou atualizar o Perfil da Empresa no Google (Google Meu Negócio), apontando o link do site para a página do portal. Isso potencializa a captação de clientes no Google Maps da cidade.
