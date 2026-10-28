@@ -1,4 +1,4 @@
-DOMINIO_DO_SITE="https://portadeenrolarribeiraopreto.vercel.app"
+DOMINIO_DO_SITE="https://portasdeenrolarribeiraopreto.vercel.app"
 
 ======================================================================
 PORTAL DE LEADS: PORTAS DE ENROLAR EM RIBEIRÃO PRETO
@@ -16,7 +16,7 @@ Você não precisa mexer em nenhuma página HTML para mudar para quem vão os co
 Basta abrir o arquivo "config.js" na raiz do projeto e alterar os valores:
 
 window.SITE_CONFIG = {
-  site: "portadeenrolarribeiraopreto",
+  site: "portasdeenrolarribeiraopreto",
   nicho: "porta de enrolar",
   whatsapp: "5516999998888",   // Coloque 55 + DDD + celular (apenas números)
   telefone: "5516999998888",   // Coloque 55 + DDD + telefone (apenas números)
@@ -72,7 +72,7 @@ Consulte o arquivo "img/PROMPTS.txt" caso queira gerar novas imagens com intelig
 ======================================================================
 4. PUBLICAÇÃO NA VERCEL
 ======================================================================
-1. Suba este projeto para um repositório no seu GitHub (ex.: "portadeenrolarribeiraopreto").
+1. Suba este projeto para um repositório no seu GitHub (ex.: "portasdeenrolarribeiraopreto").
 2. Acesse https://vercel.com e clique em "Add New Project".
 3. Importe o repositório do GitHub.
 4. Nas configurações de importação da Vercel:
@@ -87,7 +87,7 @@ Consulte o arquivo "img/PROMPTS.txt" caso queira gerar novas imagens com intelig
 ======================================================================
 Para acelerar a indexação no Google:
 1. Acesse https://search.google.com/search-console e faça login.
-2. Adicione a propriedade com o domínio do seu site (ex.: https://portadeenrolarribeiraopreto.vercel.app).
+2. Adicione a propriedade com o domínio do seu site (ex.: https://portasdeenrolarribeiraopreto.vercel.app).
 3. No menu lateral, clique em "Sitemaps".
 4. No campo "Adicionar novo sitemap", digite: sitemap.xml
 5. Clique em "Enviar". O Google fará a leitura das 13 páginas do site.

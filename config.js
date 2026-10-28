@@ -5,7 +5,7 @@
  * Formato obrigatório: 55 + DDD + número, apenas dígitos.
  */
 window.SITE_CONFIG = {
-  site: "portadeenrolarribeiraopreto",
+  site: "portasdeenrolarribeiraopreto",
   nicho: "porta de enrolar",
   whatsapp: "5516900000000",   // 55 + DDD + número (ex: 5516999998888)
   telefone: "5516900000000",   // 55 + DDD + número (ex: 5516999998888)

@@ -4,25 +4,25 @@ Portal de contato e captação de leads para conserto, manutenção, motorizaç�
 
 ## Serviços
 
-- [Conserto e manutenção de porta de enrolar](https://portadeenrolarribeiraopreto.vercel.app/servicos/conserto-e-manutencao-de-porta-de-enrolar/): Reparo de lâminas amassadas, troca de molas, alinhamento de guias e destravamento de portas manuais ou automáticas para comércios, indústrias e garagens.
-- [Fabricação e instalação de porta de enrolar](https://portadeenrolarribeiraopreto.vercel.app/servicos/fabricacao-e-instalacao-de-porta-de-enrolar/): Portas de enrolar de aço galvanizado sob medida, fechadas ou perfuradas (transvision), com pintura e acabamento resistente para galpões, lojas e residências.
-- [Motorização e troca de motor](https://portadeenrolarribeiraopreto.vercel.app/servicos/motorizacao-e-troca-de-motor/): Instalação de motor elétrico com controle remoto em portas manuais, além de troca e manutenção de centrais, acionadores e nobreaks.
+- [Conserto e manutenção de porta de enrolar](https://portasdeenrolarribeiraopreto.vercel.app/servicos/conserto-e-manutencao-de-porta-de-enrolar/): Reparo de lâminas amassadas, troca de molas, alinhamento de guias e destravamento de portas manuais ou automáticas para comércios, indústrias e garagens.
+- [Fabricação e instalação de porta de enrolar](https://portasdeenrolarribeiraopreto.vercel.app/servicos/fabricacao-e-instalacao-de-porta-de-enrolar/): Portas de enrolar de aço galvanizado sob medida, fechadas ou perfuradas (transvision), com pintura e acabamento resistente para galpões, lojas e residências.
+- [Motorização e troca de motor](https://portasdeenrolarribeiraopreto.vercel.app/servicos/motorizacao-e-troca-de-motor/): Instalação de motor elétrico com controle remoto em portas manuais, além de troca e manutenção de centrais, acionadores e nobreaks.
 
 ## Bairros Atendidos em Ribeirão Preto
 
-- [Centro](https://portadeenrolarribeiraopreto.vercel.app/bairros/centro/)
-- [Jardim Botânico](https://portadeenrolarribeiraopreto.vercel.app/bairros/jardim-botanico/)
-- [Nova Aliança](https://portadeenrolarribeiraopreto.vercel.app/bairros/nova-alianca/)
-- [Vila Tibério](https://portadeenrolarribeiraopreto.vercel.app/bairros/vila-tiberio/)
-- [Bonfim Paulista](https://portadeenrolarribeiraopreto.vercel.app/bairros/bonfim-paulista/)
-- [Campos Elíseos](https://portadeenrolarribeiraopreto.vercel.app/bairros/campos-eliseos/)
+- [Centro](https://portasdeenrolarribeiraopreto.vercel.app/bairros/centro/)
+- [Jardim Botânico](https://portasdeenrolarribeiraopreto.vercel.app/bairros/jardim-botanico/)
+- [Nova Aliança](https://portasdeenrolarribeiraopreto.vercel.app/bairros/nova-alianca/)
+- [Vila Tibério](https://portasdeenrolarribeiraopreto.vercel.app/bairros/vila-tiberio/)
+- [Bonfim Paulista](https://portasdeenrolarribeiraopreto.vercel.app/bairros/bonfim-paulista/)
+- [Campos Elíseos](https://portasdeenrolarribeiraopreto.vercel.app/bairros/campos-eliseos/)
 
 ## Páginas Institucionais
 
-- [Página Inicial](https://portadeenrolarribeiraopreto.vercel.app/)
-- [Sobre o Portal](https://portadeenrolarribeiraopreto.vercel.app/sobre/)
-- [Perguntas Frequentes](https://portadeenrolarribeiraopreto.vercel.app/perguntas-frequentes/)
-- [Política de Privacidade](https://portadeenrolarribeiraopreto.vercel.app/politica-de-privacidade/)
+- [Página Inicial](https://portasdeenrolarribeiraopreto.vercel.app/)
+- [Sobre o Portal](https://portasdeenrolarribeiraopreto.vercel.app/sobre/)
+- [Perguntas Frequentes](https://portasdeenrolarribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de Privacidade](https://portasdeenrolarribeiraopreto.vercel.app/politica-de-privacidade/)
 
 ## Perguntas Frequentes
 
