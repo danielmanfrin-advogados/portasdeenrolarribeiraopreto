@@ -1,57 +1,33 @@
+// Copia o site estático para a pasta dist. Usa só recursos nativos do Node.
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const raiz = path.dirname(fileURLToPath(import.meta.url));
+const dist = path.join(raiz, 'dist');
+const ignorar = new Set(['node_modules', 'dist', '.git', '.aistudio', 'src', 'public', 'apps-script',
+  'package.json', 'package-lock.json', 'build.js', 'vite.config.ts', 'tsconfig.json', 'metadata.json',
+  'LEIA-ME.txt', 'vercel.json', '.gitignore', '.env', '.env.example']);
 
-function copyRecursive(src, dest) {
-  if (!fs.existsSync(src)) return;
-  const stat = fs.statSync(src);
-  if (stat.isDirectory()) {
-    fs.mkdirSync(dest, { recursive: true });
-    for (const item of fs.readdirSync(src)) {
-      if (item === 'node_modules' || item === 'dist' || item === '.git' || item === '.aistudio' || item === 'public') continue;
-      copyRecursive(path.join(src, item), path.join(dest, item));
-    }
+function copiar(origem, destino) {
+  const st = fs.statSync(origem);
+  if (st.isDirectory()) {
+    fs.mkdirSync(destino, { recursive: true });
+    for (const item of fs.readdirSync(origem)) copiar(path.join(origem, item), path.join(destino, item));
   } else {
-    fs.mkdirSync(path.dirname(dest), { recursive: true });
-    fs.copyFileSync(src, dest);
+    fs.mkdirSync(path.dirname(destino), { recursive: true });
+    fs.copyFileSync(origem, destino);
   }
 }
 
-// 1. Build dist/
-fs.rmSync(path.join(__dirname, 'dist'), { recursive: true, force: true });
-fs.mkdirSync(path.join(__dirname, 'dist'), { recursive: true });
-
-const itemsToCopy = [
-  'index.html',
-  'style.css',
-  'config.js',
-  'tracker.js',
-  'favicon.svg',
-  'robots.txt',
-  'sitemap.xml',
-  'llms.txt',
-  'vercel.json',
-  'img',
-  'servicos',
-  'bairros',
-  'sobre',
-  'perguntas-frequentes',
-  'politica-de-privacidade'
-];
-
-for (const item of itemsToCopy) {
-  copyRecursive(path.join(__dirname, item), path.join(__dirname, 'dist', item));
+fs.rmSync(dist, { recursive: true, force: true });
+fs.mkdirSync(dist, { recursive: true });
+for (const item of fs.readdirSync(raiz)) {
+  if (ignorar.has(item)) continue;
+  copiar(path.join(raiz, item), path.join(dist, item));
 }
-
-// 2. Also ensure public/ has all assets if Vercel defaults to 'public' folder
-const publicDir = path.join(__dirname, 'public');
-fs.mkdirSync(publicDir, { recursive: true });
-
-for (const item of itemsToCopy) {
-  copyRecursive(path.join(__dirname, item), path.join(publicDir, item));
+if (!fs.existsSync(path.join(dist, 'index.html'))) {
+  console.error('ERRO: index.html não encontrado na raiz do projeto.');
+  process.exit(1);
 }
-
-console.log('Build completed successfully: all 13 pages, images, and configs ready in dist/ and public/ for Vercel.');
+console.log('Build concluído. Arquivos em dist/.');
