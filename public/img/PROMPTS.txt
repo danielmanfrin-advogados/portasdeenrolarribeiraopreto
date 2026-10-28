@@ -1,0 +1,33 @@
+# PROMPTS PARA GERAÇÃO OU SUBSTITUIÇÃO DAS FOTOS DO SITE
+
+Estilo geral obrigatório: Foto realista de smartphone tirada no dia a dia, iluminação natural, leve granulação e imperfeição, sem pós-produção ou iluminação de estúdio. Sem texto, logotipos, placas legíveis ou rostos em primeiro plano. Enquadramento neutro e prático do serviço em Ribeirão Preto.
+
+----------------------------------------------------------------------
+1. hero.jpg (Proporção 16:9, resolução sugerida 1600x900)
+----------------------------------------------------------------------
+Prompt:
+"A realistic, unpolished candid mobile photo of a steel commercial roll-up door installed on a storefront facade in an urban street in Brazil during late morning. Daylight with natural shadows, corrugated galvanized steel slats visible, clean sidewalk, slightly angled view showing the rolling shutter drum at the top. Authentic everyday atmosphere, no people in focus, no logos, no text."
+
+----------------------------------------------------------------------
+2. sobre.jpg (Proporção 4:3, resolução sugerida 1000x750)
+----------------------------------------------------------------------
+Prompt:
+"An amateur candid snapshot taken with a smartphone inside a metalworking shop or garage. Heavy-duty tools, steel profiles, torsion springs and workbench in natural ambient light, with a partially assembled roll-up door section in the background. Honest working atmosphere, no branding, no visible faces, authentic industrial textures."
+
+----------------------------------------------------------------------
+3. conserto-e-manutencao-de-porta-de-enrolar.jpg (Proporção 4:3, resolução sugerida 1000x750)
+----------------------------------------------------------------------
+Prompt:
+"Close-up candid mobile photo showing maintenance on a roll-up shutter track: side guide rail with industrial grease, metal slats, and technician's gloved hand adjusting a torsion spring with a wrench. Natural daytime lighting, authentic wear on metal, no logos, no text."
+
+----------------------------------------------------------------------
+4. fabricacao-e-instalacao-de-porta-de-enrolar.jpg (Proporção 4:3, resolução sugerida 1000x750)
+----------------------------------------------------------------------
+Prompt:
+"Candid photo of newly manufactured galvanized perforated steel roll-up door (transvision microperforated slats) neatly installed on a modern warehouse entrance. Crisp natural daylight reflecting softly on clean steel surface, genuine architectural detail, no advertising elements, no text."
+
+----------------------------------------------------------------------
+5. motorizacao-e-troca-de-motor.jpg (Proporção 4:3, resolução sugerida 1000x750)
+----------------------------------------------------------------------
+Prompt:
+"Candid smartphone photo of a tubular electric motor and chain drive installed near the top axis bracket of an automatic rolling shutter door. Wiring conduit, manual emergency release chain hanging down, natural workshop ambient lighting, no brands, no visible faces."

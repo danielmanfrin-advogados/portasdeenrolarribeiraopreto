@@ -72,14 +72,14 @@ Consulte o arquivo "img/PROMPTS.txt" caso queira gerar novas imagens com intelig
 ======================================================================
 4. PUBLICAÇÃO NA VERCEL
 ======================================================================
-1. Suba este projeto para um repositório no GitHub com o nome "portadeenrolarribeiraopreto".
+1. Suba este projeto para um repositório no seu GitHub (ex.: "portadeenrolarribeiraopreto").
 2. Acesse https://vercel.com e clique em "Add New Project".
-3. Importe o repositório.
-4. Nas configurações do projeto:
-   - Framework Preset: Other
-   - Build Command: Deixe vazio (desmarque a opção)
-   - Output Directory: Deixe vazio (raiz)
-5. Clique em "Deploy". O site ficará no ar instantaneamente em https://portadeenrolarribeiraopreto.vercel.app com URLs limpas e certificado SSL gratuito.
+3. Importe o repositório do GitHub.
+4. Nas configurações de importação da Vercel:
+   - O projeto agora possui configuração automática via vercel.json e build.js.
+   - Deixe o Framework Preset no padrão que a Vercel detectar (Vite ou Other).
+   - O comando de build executará automaticamente "npm run build" e entregará a pasta "dist" com todas as 13 páginas, fotos e scripts.
+5. Clique em "Deploy". O site ficará no ar instantaneamente com URLs limpas e certificado SSL gratuito.
 
 
 ======================================================================

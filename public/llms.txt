@@ -1,0 +1,42 @@
+# Portas de Enrolar em Ribeirão Preto
+
+Portal de contato e captação de leads para conserto, manutenção, motorização e fabricação sob medida de portas de enrolar manuais e automáticas em Ribeirão Preto (SP).
+
+## Serviços
+
+- [Conserto e manutenção de porta de enrolar](https://portadeenrolarribeiraopreto.vercel.app/servicos/conserto-e-manutencao-de-porta-de-enrolar/): Reparo de lâminas amassadas, troca de molas, alinhamento de guias e destravamento de portas manuais ou automáticas para comércios, indústrias e garagens.
+- [Fabricação e instalação de porta de enrolar](https://portadeenrolarribeiraopreto.vercel.app/servicos/fabricacao-e-instalacao-de-porta-de-enrolar/): Portas de enrolar de aço galvanizado sob medida, fechadas ou perfuradas (transvision), com pintura e acabamento resistente para galpões, lojas e residências.
+- [Motorização e troca de motor](https://portadeenrolarribeiraopreto.vercel.app/servicos/motorizacao-e-troca-de-motor/): Instalação de motor elétrico com controle remoto em portas manuais, além de troca e manutenção de centrais, acionadores e nobreaks.
+
+## Bairros Atendidos em Ribeirão Preto
+
+- [Centro](https://portadeenrolarribeiraopreto.vercel.app/bairros/centro/)
+- [Jardim Botânico](https://portadeenrolarribeiraopreto.vercel.app/bairros/jardim-botanico/)
+- [Nova Aliança](https://portadeenrolarribeiraopreto.vercel.app/bairros/nova-alianca/)
+- [Vila Tibério](https://portadeenrolarribeiraopreto.vercel.app/bairros/vila-tiberio/)
+- [Bonfim Paulista](https://portadeenrolarribeiraopreto.vercel.app/bairros/bonfim-paulista/)
+- [Campos Elíseos](https://portadeenrolarribeiraopreto.vercel.app/bairros/campos-eliseos/)
+
+## Páginas Institucionais
+
+- [Página Inicial](https://portadeenrolarribeiraopreto.vercel.app/)
+- [Sobre o Portal](https://portadeenrolarribeiraopreto.vercel.app/sobre/)
+- [Perguntas Frequentes](https://portadeenrolarribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de Privacidade](https://portadeenrolarribeiraopreto.vercel.app/politica-de-privacidade/)
+
+## Perguntas Frequentes
+
+### É possível motorizar uma porta de enrolar manual já existente?
+Sim, na maioria das portas manuais é possível instalar um motor elétrico compatível com a largura e o peso do eixo, acrescentando centrais e controles remotos. O prestador avalia as condições do vão.
+
+### O que fazer se a porta de enrolar travar aberta ou fechada?
+Evite forçar o acionador para não queimar o motor nem entortar as lâminas. No caso de falta de energia em modelos automáticos, utilize a corrente manual de emergência e contate o técnico.
+
+### Qual a diferença entre porta de enrolar fechada e perfurada (transvision)?
+A porta fechada oferece privacidade total e proteção contra poeira e vento. A perfurada (transvision) permite ventilação e visualização interna da vitrine mesmo fechada.
+
+### Quanto tempo costuma levar a manutenção ou instalação?
+Reparos pontuais como troca de molas ou alinhamento costumam ser realizados rapidamente após a avaliação, enquanto a fabricação sob medida requer prazo de corte e montagem. Confirme com o prestador.
+
+### Como peço o orçamento?
+Clique em WhatsApp ou Ligue agora e informe o bairro, a medida aproximada, se é conserto ou fabricação e se a porta é manual ou automática. O valor é informado na conversa.
