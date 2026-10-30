@@ -1,6 +1,6 @@
 {
-  "name": "Portas de Enrolar em Ribeirão Preto",
-  "description": "Portal de contato e captação de leads para conserto, manutenção e fabricação de portas de enrolar em Ribeirão Preto (SP).",
+  "name": "Portas de Aço de Enrolar em Ribeirão Preto",
+  "description": "Portal de contato para conserto, manutenção e fabricação de portas de aço de enrolar em Ribeirão Preto (SP).",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
